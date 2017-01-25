@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Text Analytics with Python*](http://www.apress.com/9781484223871) by Sarkar, Dipanjan (Apress, 2016).
+This repository accompanies [*Text Analytics with Python*](http://www.apress.com/9781484223871) by Dipanjan Sarkar (Apress, 2016).
 
 ![Cover image](9781484223871.jpg)
 
